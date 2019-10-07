@@ -1,0 +1,42 @@
+h1 {
+	padding: 10 10 0 10;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+input {
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	display: inline-block;
+	border: 1px solid #E0E0E0;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+  	height: 40px;
+  	width: 200px;
+  	margin: 10px;
+
+  }
+
+.numbers {
+	display: flex;
+	justify-content: center;
+}
+
+#Submit {
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+}
+.form {
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 400px;
+}
+
+#results {
+	font-size: 20px;
+	margin: 20px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
